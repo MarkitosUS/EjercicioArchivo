@@ -1,0 +1,6 @@
+ r: lectura 
+ a: append 
+ w: escritura 
+ x: create 
+ t: texto 
+ b: binary
